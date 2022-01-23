@@ -1,15 +1,15 @@
 
 # Result Module 4-1
 
-![alt text](https://github.com/ktxnft/tutorials-simple-aggregation_v2_module4_1-4_completed/blob/master/module4-1.jpg)
+![alt text](https://github.com/ktxnft/tutorials-simple-aggregation_v2_module4_1-4_completed/blob/master/module4-1.JPG)
 
 # Result Module 4-2
 
-![alt text](https://github.com/ktxnft/tutorials-simple-aggregation_v2_module4_1-4_completed/blob/master/module4-2.jpg)
+![alt text](https://github.com/ktxnft/tutorials-simple-aggregation_v2_module4_1-4_completed/blob/master/module4-2.JPG)
 
 # Result Module 4-3
 
-![alt text](https://github.com/ktxnft/tutorials-simple-aggregation_v2_module4_1-4_completed/blob/master/module4-3.jpg)
+![alt text](https://github.com/ktxnft/tutorials-simple-aggregation_v2_module4_1-4_completed/blob/master/module4-3.JPG)
 
 # Result Module 4-4
 
