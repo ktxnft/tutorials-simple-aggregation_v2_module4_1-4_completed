@@ -1,13 +1,9 @@
-type StakingReward @entity{
-id: ID! #blockHeight-eventIdx
-account: SumReward!
-balance: BigInt!
-date: Date!
-blockheight: Int
+query{
+sumRewards(first:3 orderBy:BLOCKHEIGHT_ASC){
+nodes{
+blockheight
+id
+totalReward
 }
-
-type SumReward @entity{
-id: ID! # AccountId
-totalReward: BigInt!
-blockheight: Int
+}
 }
