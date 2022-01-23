@@ -1,3 +1,4 @@
+#mapping
 import {SubstrateEvent} from "@subql/types";
 import {StakingReward, SumReward} from "../types";
 import {Balance} from "@polkadot/types/interfaces";

@@ -1,4 +1,3 @@
-#stakinng sumreward
 type StakingReward @entity{
 id: ID! #blockHeight-eventIdx
 account: SumReward!
